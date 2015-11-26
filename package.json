@@ -1,0 +1,23 @@
+{
+  "name": "react-prefix",
+  "version": "0.0.0",
+  "description": "A React package to easily apply vendor prefixes to inline-styled elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverfencott/react-prefix.git"
+  },
+  "author": "Oliver Fencott <oliverfencott@gmail.com> (http://fencott.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oliverfencott/react-prefix/issues"
+  },
+  "homepage": "https://github.com/oliverfencott/react-prefix#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
